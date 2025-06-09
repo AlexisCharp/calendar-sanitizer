@@ -1,0 +1,17 @@
+calendar-sanitizer
+├── src
+│   ├── main.py
+│   ├── sanitizer
+│   │   ├── __init__.py
+│   │   └── ical_processor.py
+│   └── models
+│       ├── __init__.py
+│       └── event.py
+├── tests
+│   ├── __init__.py
+│   ├── test_ical_processor.py
+│   └── test_data
+│       └── sample.ics
+├── requirements.txt
+├── README.md
+└── .gitignore
